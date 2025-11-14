@@ -1,11 +1,4 @@
-ADA/USDT Quantitative Trading Strategy
-
-A full-stack quantitative trading system combining machine-learning forecasting, systematic strategy design, and automated futures execution on Binance.
-This repository demonstrates a complete research-to-execution pipeline used to develop and deploy an end-to-end trading strategy on the ADA/USDT 12-hour timeframe.
-
-⸻
-
-  Overview
+Overview
 
 This project implements a complete systematic trading workflow:
 	1.	Machine Learning Model (Forecasting Layer)
